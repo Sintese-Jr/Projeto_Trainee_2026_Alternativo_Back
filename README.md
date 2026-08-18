@@ -18,7 +18,7 @@ npm install
 ### 2. Configurar variáveis de ambiente
 Crie um arquivo `.env` na raiz do projeto, seguindo o modelo do `.env.example`:MONGO_URI=string_de_conexao
 
-### 3. Popular o banco de dados (opcional, mas recomendado)
+### 3. Popular o banco de dados
 ```bash
 node seeder.js
 ```
